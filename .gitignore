@@ -1,0 +1,6 @@
+*
+*/
+!/*.csproj
+!/*.cs
+!/*.xaml
+!/.gitignore
