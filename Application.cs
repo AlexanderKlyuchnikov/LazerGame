@@ -8,8 +8,15 @@ namespace LazerGame
 	{
 		public StartApplication()
 		{
-			//System.Console.WriteLine("LazerGame has started");
-			//System.Windows.Application.Current.Shutdown();
+
+		}
+	}
+
+	public partial class StartWindow : Window
+	{
+		public StartWindow()
+		{
+			InitializeComponent();
 		}
 	}
 }
